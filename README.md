@@ -1,7 +1,7 @@
 # terraform-installer
 Minimalist Terraform Installer
 
-## requirements:
+## Requirements:
 
 ```
 jq
